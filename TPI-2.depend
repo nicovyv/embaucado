@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1720046803 source:c:\users\usuario\documents\tup\programacion_i\tpi-3\funciones.cpp
+	<iostream>
+	<iomanip>
+	<locale>
+	<cstdlib>
+	<ctime>
+	"menu.h"
+
+1719974182 c:\users\usuario\documents\tup\programacion_i\tpi-3\menu.h
+
+1719973516 source:c:\users\usuario\documents\tup\programacion_i\tpi-3\main.cpp
+	<iostream>
+	<locale>
+	"menu.h"
+
+1720046803 source:c:\users\usuario\documents\tup\programacion_i\tpi-3\vista.cpp
+	<iostream>
+	<locale>
+	<iomanip>
+	"menu.h"
+
