@@ -20,3 +20,24 @@
 	<iomanip>
 	"menu.h"
 
+1720048704 source:c:\users\usuario\documents\tup\programacion_i\embaucado\funciones.cpp
+	<iostream>
+	<iomanip>
+	<locale>
+	<cstdlib>
+	<ctime>
+	"menu.h"
+
+1719974182 c:\users\usuario\documents\tup\programacion_i\embaucado\menu.h
+
+1719973516 source:c:\users\usuario\documents\tup\programacion_i\embaucado\main.cpp
+	<iostream>
+	<locale>
+	"menu.h"
+
+1720046803 source:c:\users\usuario\documents\tup\programacion_i\embaucado\vista.cpp
+	<iostream>
+	<locale>
+	<iomanip>
+	"menu.h"
+
